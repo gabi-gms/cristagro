@@ -1,1 +1,24 @@
-.venv/ __pycache__/ *.pyc .ipynb_checkpoints/ .env .DS_Store models/*.pkl
+# ambiente virtual
+.venv/
+
+# cache do python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# sistema
+.DS_Store
+Thumbs.db
+
+# variáveis de ambiente
+.env
+
+# arquivos temporários do VS Code
+.vscode/
+
+# modelos salvos
+# comente estas linhas se você quiser versionar os arquivos do modelo
+# models/model.pkl
+# models/columns.pkl

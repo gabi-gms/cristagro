@@ -1,0 +1,1 @@
+print("Cristagro está pronto para começar!")
