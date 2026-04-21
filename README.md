@@ -60,6 +60,7 @@ Cristagro/
 ├── README.md
 ├── requirements.txt
 └── main.py
+```
 
 ---
 
@@ -67,27 +68,39 @@ Cristagro/
 
 Clone the repository:
 
+```text
 git clone https://github.com/SEU-USUARIO/Cristagro.git
+```
 
 Go to the folder:
 
+```text
 cd Cristagro
+```
 
 Create virtual environment:
 
+```text
 py -m venv .venv
+```
 
 Activate environment (PowerShell):
 
+```text
 .venv\Scripts\Activate.ps1
+```
 
 Install dependencies:
 
+```text
 pip install -r requirements.txt
+```
 
 Run the app:
 
+```text
 py -m streamlit run app/app.py
+```
 
 ---
 
